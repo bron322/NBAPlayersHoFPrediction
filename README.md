@@ -56,3 +56,4 @@ If we figure out important factors contributing to a player's likelihood getting
 * https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
 * https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn
 * https://www.datacamp.com/tutorial/xgboost-in-python
+* https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/
