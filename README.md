@@ -49,6 +49,7 @@ If we figure out important factors contributing to a player's likelihood getting
 * We learn to collab with each other using GitHub
 
 ## Conclusion
+The project successfully predicted which current, active NBA players could enter the Hall of Fame based on their rookie statistics. Six players were predicted, with Pau Gasol already nominated for induction in 2023. The project also learned new techniques to handle skewed data and employed four new machine learning models to predict binary outcomes. The insights gained can help set expectations for new rookies and predict their potential for future induction
 
 ## References
 * https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
